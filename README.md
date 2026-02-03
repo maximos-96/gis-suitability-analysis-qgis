@@ -68,4 +68,54 @@ Each criterion was:
 ---
 
 ### 3. Scenario-Based Analysis
-Two different
+Two different weighting scenarios were tested to evaluate the impact of weighting decisions:
+
+- Scenario A: Emphasis on terrain-related criteria (e.g. slope)
+- Scenario B: Increased weight on accessibility and land characteristics
+
+The resulting suitability maps were compared to assess how changes in criterion weights influence spatial outcomes.
+
+---
+
+### 4. Final Suitability Mapping
+The constraint mask and weighted overlay results were integrated to produce final classified suitability maps for each scenario, highlighting candidate areas that satisfy all constraints and score highly across evaluation criteria.
+
+---
+
+## Tools & Technologies
+- QGIS
+- Raster Calculator
+- Vector and Raster Spatial Analysis
+- Reclassification and Overlay Techniques
+- Cartographic Layout and Map Design
+
+---
+
+## Results
+The final outputs include:
+- A constraint exclusion map
+- Weighted suitability maps for both scenarios
+- Final classified suitability maps identifying candidate areas on Kythnos
+
+The scenario comparison demonstrates the sensitivity of suitability outcomes to weighting choices.
+
+---
+
+## Key Skills Demonstrated
+- GIS workflow design
+- Multi-criteria decision analysis (MCDA)
+- Constraint mapping
+- Weighted overlay analysis
+- Raster and vector data processing
+- Scenario comparison and sensitivity analysis
+- Cartographic visualization in QGIS
+
+---
+
+## Academic Context
+This project was developed as part of a university-level GIS course focusing on applied spatial analysis and spatial decision support.
+
+---
+
+## Repository Structure
+The repository focuses on documentation and final cartographic outputs; project files are not included.
